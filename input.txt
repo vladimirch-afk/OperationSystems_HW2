@@ -1,0 +1,9 @@
+This
+is
+a
+file
+with
+9
+strings
+in
+it
