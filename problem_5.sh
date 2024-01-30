@@ -20,7 +20,7 @@ function check_if_prime() {
 	return 1
 }
 
-# This function adds a recieved number to the total sum if the number is odd
+# This function adds a recieved number to the total sum if the number is prime
 # takes one argument - number to add
 function add_number() {
 	local n=$1
